@@ -8,4 +8,4 @@ sudo systemctl enable httpd
 cd /opt
 wget https://github.com/kserge2001/web-consulting/archive/refs/heads/dev.zip
 unzip dev.zip
-cp -r /opt/web-consulting-dev/* /var/www/htm
+cp -r /opt/web-consulting-dev/* /var/www/html
